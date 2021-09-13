@@ -1,2 +1,14 @@
-# Assignment-2
- Linking web pages
+# CS 648.01 - Advanced Web Development Frameworks Assignment-2
+ 
+##Create a four-page website for Vecta Corp
+
+>Creating and linking web pages on Vecta Corp website
+
+### We focused on linking the following web pages on the given website in the assignment:
+
+- #### Home Page_
+- #### About Us_
+- #### Solutions_
+- #### Contact Us_
+
+
